@@ -1,0 +1,25 @@
+.back-ground {
+  min-height: 100vh;
+  background-color:rgba(12, 59, 51, 0.397);
+}
+
+.brd {
+  border: 4px double pink; 
+  background::rgba(82, 82, 179, 0.97);
+  padding: 10px;
+}
+
+.table-color {
+  background-color:rgb(228, 227, 236);
+  color:#4e529e;
+}
+
+.logo {
+  position: relative;
+  height: 100px;
+  width: 300px;
+}
+
+.time{
+  width: 100px;
+}
